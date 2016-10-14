@@ -6,9 +6,10 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="baidu-site-verification" content="HknqsD2zhn" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>编码助手网</title>
-      <meta content="为编码人员提供在线文档、模板等帮助，提升解决问题效率" name="description">
-			<meta content="Java, spring, tomcat, servlet, jsp, api doc, bootstrap" name="keywords">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>免费的 Bootstrap 模板 -小龙软件工作室 - </title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -55,7 +56,7 @@
                     <li>
                         <a href="/">首页</a>
                     </li>
-										<li>
+                    <li>
                         <a href="./template.html">模板</a>
                     </li>
                     <li>
@@ -74,38 +75,29 @@
     <!-- Page Content -->
     <div class="container">
 
-        <!-- Jumbotron Header -->
-        <header class="jumbotron hero-spacer">
-            <h1>免费的bootstrap模板!</h1>
-            <p>完全免费、开箱即用的bootstrap模板。有简单的个人主页，也有组件齐全的管理模板。</p>
-            <p><a class="btn btn-primary btn-large" href="./contact.html">联系我们!</a>
-            </p>
-        </header>
 
-        <hr>
 
         <!-- Title -->
         <div class="row">
             <div class="col-lg-12">
-                <h3>最新模板</h3>
+                <h3 style="padding:10px">免费模板下载</h3>
             </div>
         </div>
         <!-- /.row -->
-
+        <hr>
         <!-- Page Features -->
         <div class="row text-center">
 ###site
         </div>
         <!-- /.row -->
-
-
 				<nav>
 				  <ul class="pager">
-				<!--    <li class="previous disabled"><a href="#">&larr; Older</a></li>-->
-				    <li class="next"><a href="./template.html">更多 &rarr;</a></li>
+				    ###pre
+				  ###next
 				  </ul>
 				</nav>
-				        <hr>
+        <hr>
+
         <!-- Footer -->
         <footer>
             <div class="row">

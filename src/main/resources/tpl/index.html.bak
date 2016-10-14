@@ -6,9 +6,10 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="baidu-site-verification" content="HknqsD2zhn" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>编码助手网</title>
-      <meta content="为编码人员提供在线文档、模板等帮助，提升解决问题效率" name="description">
-			<meta content="Java, spring, tomcat, servlet, jsp, api doc, bootstrap" name="keywords">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>免费的 Bootstrap 模板 -小龙软件工作室 - </title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
